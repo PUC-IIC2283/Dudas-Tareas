@@ -10,6 +10,8 @@ En este repositorio, en la sección de [Issues](https://github.com/PUC-IIC2283/D
 
 3. Si una pregunta está repetida, esta se cerrará y se redirigirá a la original.
 
+4. Una _issue_ se etiquetara como Resuelta cuando el alumno que la hizo confirme que su duda fue resuelta o hayan pasado 2 dias desde la última respuesta.
+
 
 ## Tips
 
