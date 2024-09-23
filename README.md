@@ -10,7 +10,7 @@ En este repositorio, en la sección de [Issues](https://github.com/PUC-IIC2283/D
 
 3. Si una pregunta está repetida, esta se cerrará y se redirigirá a la original.
 
-4. Una _issue_ se etiquetara como Resuelta cuando el alumno que la hizo confirme que su duda fue resuelta o hayan pasado 2 dias desde la última respuesta.
+4. Una _issue_ se etiquetara como Resuelto cuando el alumno que la hizo confirme que su duda fue resuelta o hayan pasado 2 dias desde la última respuesta.
 
 
 ## Tips
@@ -24,6 +24,10 @@ En este repositorio, en la sección de [Issues](https://github.com/PUC-IIC2283/D
 4. Aunque uno no lo crea, Python puede ser optimizado en muchas ocasiones. Se recomienda plantearse cómo realizar ciertas operaciones de forma más rápida.
 
 5. Generar testcases de forma propia puede ser una buena forma de entender el problema. Esto ademas les ayudará a saber cómo escala su algoritmo con respecto al tamaño de la entrada.
+
+6. Un algoritmo recursivo puede ser más fácil de entender, pero en general es menos eficiente que su versión iterativa. Siempre que sea posible, se recomienda implementar la versión iterativa.
+
+7. Siempre que sea posible, usar funciones y estructuras de datos que ya están implementadas en Python, ya que estas suelen ser más eficientes que las implementaciones propias. Por ejemplo, si necesitan ordenar una lista, usar el método `sort` (o la función `sorted`) en vez de implementar su propio algoritmo de ordenamiento, o si necesitan realizar una cola, usar `collections.deque`.
 
 
 ## Adicionales
