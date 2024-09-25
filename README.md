@@ -35,3 +35,8 @@ En este repositorio, en la sección de [Issues](https://github.com/PUC-IIC2283/D
 1. La solución de cada parte de cada tarea debe ser un único archivo `.py` que contenga su código de solución. Otros archivos como `test.py` o `main.py` no serán considerados (ver que el `.gitignore` del repositorio excluye estos archivos).
 
 2. Si cree necesitar de alguna librería adicional, consultar antes de usarla. Como norma general, no se permitirán librerías que no estén incluidas en la librería estándar de Python.
+
+
+## Forms de Atraso
+
+1. [Tarea 1](https://forms.gle/dBFeEGPJNtvsNgAi6)
